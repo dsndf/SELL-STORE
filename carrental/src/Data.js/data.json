@@ -1,0 +1,390 @@
+[
+    {
+      "car_name": "Toyota Corolla",
+      "distance_per_litre": 15.2,
+      "price_per_day": 50.99,
+      "number_of_seats": 5,
+      "image":"https://wallpapercave.com/wp/wp4543828.jpg"
+    },
+    {
+      "car_name": "Honda Civic",
+      "distance_per_litre": 14.8,
+      "price_per_day": 48.75,
+      "number_of_seats": 5,
+      "image":"https://wallpapercave.com/dwp1x/wp11387590.jpg"
+      
+    },
+    {
+      "car_name": "Ford Mustang",
+      "distance_per_litre": 10.5,
+      "price_per_day": 95.50,
+      "number_of_seats": 4,
+      "image":"https://wallpapercave.com/dwp1x/wp11387590.jpg"
+      
+    },
+    {
+      "car_name": "Nissan Altima",
+      "distance_per_litre": 13.5,
+      "price_per_day": 52.25,
+      "number_of_seats": 5,
+      "image":"https://wallpapercave.com/dwp1x/wp11387590.jpg"
+    },
+    {
+      "car_name": "Chevrolet Camaro",
+      "distance_per_litre": 11.7,
+      "price_per_day": 89.99,
+      "number_of_seats": 4,
+      "image":"https://wallpapercave.com/dwp1x/wp11387590.jpg"
+    },
+    {
+      "car_name": "Hyundai Elantra",
+      "distance_per_litre": 14.3,
+      "price_per_day": 47.50,
+      "number_of_seats": 5,
+      "image":"https://wallpapercave.com/dwp1x/wp11387590.jpg"
+    },
+    {
+      "car_name": "Volkswagen Passat",
+      "distance_per_litre": 12.8,
+      "price_per_day": 55.75,
+      "number_of_seats": 5,
+      "image":"https://wallpapercave.com/dwp1x/wp11387590.jpg"
+    },
+    {
+      "car_name": "Mazda CX-5",
+      "distance_per_litre": 11.9,
+      "price_per_day": 62.00,
+      "number_of_seats": 5,
+      "image":"https://wallpapercave.com/dwp1x/wp11387590.jpg"
+    },
+    {
+      "car_name": "Subaru Outback",
+      "distance_per_litre": 12.1,
+      "price_per_day": 59.99,
+      "number_of_seats": 5,
+      "image":"https://wallpapercave.com/dwp1x/wp11387590.jpg"
+    },
+    {
+      "car_name": "Kia Soul",
+      "distance_per_litre": 13.7,
+      "price_per_day": 49.50,
+      "number_of_seats": 5,
+      "image":"https://wallpapercave.com/dwp1x/wp11387590.jpg"
+    },
+    {
+      "car_name": "Audi A4",
+      "distance_per_litre": 12.4,
+      "price_per_day": 74.25,
+      "number_of_seats": 5,
+      "image":"https://wallpapercave.com/dwp1x/wp11387590.jpg"
+    },
+    {
+      "car_name": "BMW 3 Series",
+      "distance_per_litre": 11.2,
+      "price_per_day": 85.99,
+      "number_of_seats": 5,
+      "image":"https://wallpapercave.com/dwp1x/wp11387590.jpg"
+    },
+    {
+      "car_name": "Mercedes-Benz C-Class",
+      "distance_per_litre": 11.8,
+      "price_per_day": 89.50,
+      "number_of_seats": 5,
+      "image":"https://wallpapercave.com/dwp1x/wp11387590.jpg"
+    },
+    {
+      "car_name": "Lexus RX 350",
+      "distance_per_litre": 10.6,
+      "price_per_day": 98.75,
+      "number_of_seats": 5,
+      "image":"https://wallpapercave.com/dwp1x/wp11387590.jpg"
+    },
+    {
+      "car_name": "Tesla Model 3",
+      "distance_per_litre": 0,
+      "price_per_day": 120.00,
+      "number_of_seats": 5,
+      "image":"https://wallpapercave.com/dwp1x/wp11387590.jpg"
+    },
+    {
+      "car_name": "Jeep Wrangler",
+      "distance_per_litre": 9.5,
+      "price_per_day": 70.99,
+      "number_of_seats": 4,
+      "image":"https://wallpapercave.com/dwp1x/wp11387590.jpg"
+    },
+    {
+      "car_name": "Dodge Grand Caravan",
+      "distance_per_litre": 12.9,
+      "price_per_day": 56.75,
+      "number_of_seats": 7,
+      "image":"https://wallpapercave.com/dwp1x/wp11387590.jpg"
+    },
+    {
+      "car_name": "Ford Explorer",
+      "distance_per_litre": 11.0,
+      "price_per_day": 65.50,
+      "number_of_seats": 7,
+      "image":"https://wallpapercave.com/dwp1x/wp11387590.jpg"
+    },
+    {
+      "car_name": "Chevrolet Tahoe",
+      "distance_per_litre": 10.3,
+      "price_per_day": 78.25,
+      "number_of_seats": 8,
+      "image":"https://wallpapercave.com/dwp1x/wp11387590.jpg"
+    },
+    {
+      "car_name": "GMC Yukon",
+      "distance_per_litre": 10.1,
+      "price_per_day": 79.99,
+      "number_of_seats": 8,
+      "image":"https://wallpapercave.com/dwp1x/wp11387590.jpg"
+    },
+    {
+      "car_name": "Toyota Sienna",
+      "distance_per_litre": 13.2,
+      "price_per_day": 63.50,
+      "number_of_seats": 7,
+      "image":"https://wallpapercave.com/dwp1x/wp11387590.jpg"
+    },
+    {
+      "car_name": "Honda Odyssey",
+      "distance_per_litre": 12.5,
+      "price_per_day": 68.75,
+      "number_of_seats": 7,
+      "image":"https://wallpapercave.com/dwp1x/wp11387590.jpg"
+    },
+    {
+      "car_name": "Nissan Pathfinder",
+      "distance_per_litre": 11.8,
+      "price_per_day": 59.99,
+      "number_of_seats": 7,
+      "image":"https://wallpapercave.com/dwp1x/wp11387590.jpg"
+    },
+    {
+      "car_name": "Jeep Cherokee",
+      "distance_per_litre": 12.6,
+      "price_per_day": 62.50,
+      "number_of_seats": 5,
+      "image":"https://wallpapercave.com/dwp1x/wp11387590.jpg"
+    },
+    {
+      "car_name": "Subaru Forester",
+      "distance_per_litre": 13.0,
+      "price_per_day": 55.99,
+      "number_of_seats": 5,
+      "image":"https://wallpapercave.com/dwp1x/wp11387590.jpg"
+    },
+    {
+      "car_name": "Kia Sorento",
+      "distance_per_litre": 12.7,
+      "price_per_day": 54.25,
+      "number_of_seats": 7,
+      "image":"https://wallpapercave.com/dwp1x/wp11387590.jpg"
+    },
+    {
+      "car_name": "Audi Q5",
+      "distance_per_litre": 11.6,
+      "price_per_day": 76.99,
+      "number_of_seats": 5,
+      "image":"https://wallpapercave.com/dwp1x/wp11387590.jpg"
+    },
+    {
+      "car_name": "BMW X5",
+      "distance_per_litre": 10.9,
+      "price_per_day": 88.50,
+      "number_of_seats": 5,
+      "image":"https://wallpapercave.com/dwp1x/wp11387590.jpg"
+    },
+    {
+      "car_name": "Mercedes-Benz GLE",
+      "distance_per_litre": 10.8,
+      "price_per_day": 92.75,
+      "number_of_seats": 5,
+      "image":"https://wallpapercave.com/dwp1x/wp11387590.jpg"
+    },
+    {
+      "car_name": "Lexus NX 300",
+      "distance_per_litre": 10.2,
+      "price_per_day": 96.25,
+      "number_of_seats": 5,
+      "image":"https://wallpapercave.com/dwp1x/wp11387590.jpg"
+    },
+    {
+      "car_name": "Tesla Model Y",
+      "distance_per_litre": 0,
+      "price_per_day": 135.00,
+      "number_of_seats": 5,
+      "image":"https://wallpapercave.com/dwp1x/wp11387590.jpg"
+    },
+    {
+      "car_name": "Jeep Grand Cherokee",
+      "distance_per_litre": 11.7,
+      "price_per_day": 74.99,
+      "number_of_seats": 5,
+      "image":"https://wallpapercave.com/dwp1x/wp11387590.jpg"
+    },
+    {
+      "car_name": "Dodge Charger",
+      "distance_per_litre": 10.3,
+      "price_per_day": 89.75,
+      "number_of_seats": 5,
+      "image":"https://wallpapercave.com/dwp1x/wp11387590.jpg"
+    },
+    {
+      "car_name": "Ford F-150",
+      "distance_per_litre": 9.8,
+      "price_per_day": 82.50,
+      "number_of_seats": 5,
+      "image":"https://wallpapercave.com/dwp1x/wp11387590.jpg"
+    },
+    {
+      "car_name": "Chevrolet Silverado",
+      "distance_per_litre": 9.5,
+      "price_per_day": 87.99,
+      "number_of_seats": 5,
+      "image":"https://wallpapercave.com/dwp1x/wp11387590.jpg"
+    },
+    {
+      "car_name": "GMC Sierra",
+      "distance_per_litre": 9.2,
+      "price_per_day": 89.25,
+      "number_of_seats": 5,
+      "image":"https://wallpapercave.com/dwp1x/wp11387590.jpg"
+    },
+    {
+      "car_name": "Toyota Tacoma",
+      "distance_per_litre": 11.1,
+      "price_per_day": 69.50,
+      "number_of_seats": 5,
+      "image":"https://wallpapercave.com/dwp1x/wp11387590.jpg"
+    },
+    {
+      "car_name": "Honda CR-V",
+      "distance_per_litre": 12.8,
+      "price_per_day": 54.99,
+      "number_of_seats": 5,
+      "image":"https://wallpapercave.com/dwp1x/wp11387590.jpg"
+    },
+    {
+      "car_name": "Nissan Rogue",
+      "distance_per_litre": 12.5,
+      "price_per_day": 52.75,
+      "number_of_seats": 5,
+      "image":"https://wallpapercave.com/dwp1x/wp11387590.jpg"
+    },
+    {
+      "car_name": "Jeep Renegade",
+      "distance_per_litre": 13.2,
+      "price_per_day": 48.50,
+      "number_of_seats": 5,
+      "image":"https://wallpapercave.com/dwp1x/wp11387590.jpg"
+    },
+    {
+      "car_name": "Subaru Crosstrek",
+      "distance_per_litre": 12.9,
+      "price_per_day": 57.99,
+      "number_of_seats": 5,
+      "image":"https://wallpapercave.com/dwp1x/wp11387590.jpg"
+    },
+    {
+      "car_name": "Kia Sportage",
+      "distance_per_litre": 12.6,
+      "price_per_day": 49.75,
+      "number_of_seats": 5,
+      "image":"https://wallpapercave.com/dwp1x/wp11387590.jpg"
+    },
+    {
+      "car_name": "Audi Q3",
+      "distance_per_litre": 11.7,
+      "price_per_day": 72.50,
+      "number_of_seats": 5,
+      "image":"https://wallpapercave.com/dwp1x/wp11387590.jpg"
+    },
+    {
+      "car_name": "BMW X3",
+      "distance_per_litre": 11.3,
+      "price_per_day": 79.99,
+      "number_of_seats": 5,
+      "image":"https://wallpapercave.com/dwp1x/wp11387590.jpg"
+    },
+    {
+      "car_name": "Mercedes-Benz GLC",
+      "distance_per_litre": 10.9,
+      "price_per_day": 84.75,
+      "number_of_seats": 5,
+      "image":"https://wallpapercave.com/dwp1x/wp11387590.jpg"
+    },
+    {
+      "car_name": "Mercedes-Benz GLC",
+      "distance_per_litre": 10.9,
+      "price_per_day": 84.75,
+      "number_of_seats": 5,
+      "image":"https://wallpapercave.com/dwp1x/wp11387590.jpg"
+    },
+    {
+      "car_name": "Mercedes-Benz GLC",
+      "distance_per_litre": 10.9,
+      "price_per_day": 84.75,
+      "number_of_seats": 5,
+      "image":"https://wallpapercave.com/dwp1x/wp11387590.jpg"
+    },
+    {
+      "car_name": "Mercedes-Benz GLC",
+      "distance_per_litre": 10.9,
+      "price_per_day": 84.75,
+      "number_of_seats": 5,
+      "image":"https://wallpapercave.com/dwp1x/wp11387590.jpg"
+    },
+    {
+      "car_name": "Mercedes-Benz GLC",
+      "distance_per_litre": 10.9,
+      "price_per_day": 84.75,
+      "number_of_seats": 5,
+      "image":"https://wallpapercave.com/dwp1x/wp11387590.jpg"
+    },
+    {
+      "car_name": "Mercedes-Benz GLC",
+      "distance_per_litre": 10.9,
+      "price_per_day": 84.75,
+      "number_of_seats": 5,
+      "image":"https://wallpapercave.com/dwp1x/wp11387590.jpg"
+    },
+    {
+      "car_name": "Lexus UX 250h",
+      "distance_per_litre": 11.1,
+      "price_per_day": 95.25,
+      "number_of_seats": 5,
+      "image":"https://wallpapercave.com/dwp1x/wp11387590.jpg"
+    },
+    {
+      "car_name": "Tesla Model X",
+      "distance_per_litre": 0,
+      "price_per_day": 150.00,
+      "number_of_seats": 5,
+      "image":"https://wallpapercave.com/dwp1x/wp11387590.jpg"
+    },
+    {
+      "car_name": "Ford Escape",
+      "distance_per_litre": 13.4,
+      "price_per_day": 51.99,
+      "number_of_seats": 5,
+      "image":"https://wallpapercave.com/dwp1x/wp11387590.jpg"
+    },
+    {
+      "car_name": "Chevrolet Equinox",
+      "distance_per_litre": 12.7,
+      "price_per_day": 54.50,
+      "number_of_seats": 5,
+      "image":"https://wallpapercave.com/dwp1x/wp11387590.jpg"
+    },
+    {
+      "car_name": "GMC Terrain",
+      "distance_per_litre": 12.2,
+      "price_per_day": 56.75,
+      "number_of_seats": 5,
+      "image":"https://wallpapercave.com/dwp1x/wp11387590.jpg"
+    }
+  ]
+  
