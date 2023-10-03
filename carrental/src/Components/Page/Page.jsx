@@ -1,4 +1,4 @@
-import React, { useContext, useEffect, useState } from "react";
+import React, { useContext} from "react";
 import SearchBar from "../Searchbar/SearchBar";
 import Pagination from "../Pagination/Pagination";
 import Card from "../Card/Card";
@@ -31,7 +31,7 @@ const Page = () => {
         </div>
       )}
 
-      <Pagination />
+      <Pagination  carsCount = {pageData.length} />
     </section>
   );
 };

@@ -13,8 +13,9 @@ return (e)=>{
      setPageCounts(pageCounts);
      setPageNo(1);
       setLoader(false);
+      
      navigation('/page/1');
-    }, 3000);
+    }, 2000);
 
 }
 
