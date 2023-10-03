@@ -25,6 +25,7 @@ const Page = () => {
                   name={v?.car_name}
                   seats={v?.number_of_seats}
                   capacity={v?.distance_per_litre}
+                  price={v?.price_per_day}
                 />
               );
             })}
